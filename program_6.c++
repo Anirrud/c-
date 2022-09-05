@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int a=6,b=9,c=12;
-if(a>b&&a>b)
+if(a>b&&a>c)
   {
       cout<<"a is greater than b and c";
   }
